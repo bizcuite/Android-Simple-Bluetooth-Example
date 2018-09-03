@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Simple Bluetooth</string>
+    <string name="app_name">BTReader</string>
+    <string name="rx">RX:</string>
+    <string name="status">Status:</string>
+    <string name="lt_read_buffer"><![CDATA[<Read Buffer>]]></string>
+    <string name="lt_bluetooth_status"><![CDATA[<Bluetooth Status>]]></string>
+    <string name="bt_off">BT OFF</string>
+    <string name="show_paired_devices">DevicePaired</string>
+    <string name="start_log">GoLog!</string>
+    <string name="discover_new_devices">Discover</string>
+    <string name="bt_on">BT ON</string>
+    <string name="test">test:</string>
+    <string name="testHeader">testHeader:</string>
+    <string name="testfulltrame">testFullTrame</string>
+
 </resources>
